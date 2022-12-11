@@ -1,0 +1,2 @@
+# DSAProblems
+A repository that contains all the problems solved during the practice sessions of data structures and algorithms in various languages. Planning to update it every day with a minimum of two problems.
