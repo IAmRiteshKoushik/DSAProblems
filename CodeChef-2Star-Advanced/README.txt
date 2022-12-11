@@ -1,0 +1,1 @@
+Problems rated 1400-1500 on the CodeChef Plaform are solved and kept here.
