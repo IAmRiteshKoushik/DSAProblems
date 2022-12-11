@@ -1,4 +1,9 @@
-# Given a string fint eh lenght of the longest substring without repeating characters
+# Given a string find the lenght of the longest substring without repeating characters 
+
+# Input : abcabcacb 
+# Output : 3
+# Input : bbbbbb
+# Output : 1
 
 s = input("")
 max_length = 0
@@ -12,5 +17,6 @@ for i in range(len(s)):
         temp_storage = s[i]
         
 print(max(len(temp_storage), max_length))
+
         
     
